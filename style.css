@@ -1,0 +1,12 @@
+#submitButton {
+    background-color : rgb(40, 167, 167);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 4px rgb(2, 78, 97) solid;
+border-radius: 13px;
+text-align: center;
+height: 2px;
+box-shadow: 5px 5px 8px rgb(13, 58, 85);
+padding: 15px;
+margin: 0%;
+
+}
